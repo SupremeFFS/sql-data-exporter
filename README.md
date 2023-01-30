@@ -10,7 +10,7 @@ sql-data-exporter pulls data from the SQL database(specified in the config.json 
 
 Clone the repository and in the command line run: python main.py and it will pull the SQL data and create a file specified in the config.json. 
 
-## Example config, anything after the # are comments
+## Example config with comments. See the repo config.json file for an actucal example. 
 ```json
 {
     "DATABASE": {
