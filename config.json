@@ -1,0 +1,23 @@
+{
+    "DATABASE": {
+        "USERNAME": "username",
+        "PASSWORD": "password",
+        "HOST": "host_ip",
+        "NAME": "datbase_name",
+        "VIEW_NAME": "table_name",
+    },
+    "GENERAL": {
+        "EXPORT_DIRECTORY": "/export/directory/",
+        "FILE_EXT": ".csv",
+        "DELIMITER":",",
+        "DATE_FORMAT": "%m-%d-%Y-%H%M%S",
+        "FILE_NAME": "new_file_name"
+    },
+    "SFTP": {
+        "ENABLED": false,
+        "HOST": "",
+        "USERNAME": "",
+        "PASSWORD": "",
+        "UPLOAD_DIRECTORY": ""
+    }
+}
