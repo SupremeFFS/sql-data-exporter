@@ -4,7 +4,7 @@ import pymssql
 import os
 import datetime
 import pysftp
-# The multiple prints are for redirecting it to a file in cron.
+# The multiple prints are for redirecting it to a log file when executed in cron.
 class Config():
     def get_config():
         try:
