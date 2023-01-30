@@ -1,0 +1,2 @@
+pymssql==2.2.7
+pysftp==0.2.9
